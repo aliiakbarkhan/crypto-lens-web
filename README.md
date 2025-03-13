@@ -24,7 +24,7 @@ A modern, visually appealing cryptocurrency price checker web application that d
 
 1. Clone the repository
    ```
-   git clone https://github.com/yourusername/cryptolens.git
+   git clone https://github.com/aliiakbarkhan/crypto-lens-web.git
    ```
 
 2. Open `index.html` in your browser or use a local server
