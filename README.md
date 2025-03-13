@@ -1,9 +1,9 @@
 # CryptoLens
 
-A modern, visually appealing cryptocurrency price checker web application that displays real-time prices using the CoinGecko API.
 
 ![Screenshot 2025-03-13 124108](https://github.com/user-attachments/assets/d72bb8b9-cd47-4775-a748-3462367113ef)
 
+A modern, visually appealing cryptocurrency price checker web application that displays real-time prices using the CoinGecko API.
 
 ## 🚀 Features
 
