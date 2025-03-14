@@ -50,8 +50,7 @@ A modern, visually appealing cryptocurrency price checker web application that d
 
 ## 📄 License
 
+https://github.com/user-attachments/assets/af7a9530-cbef-4cb4-8f47-7d2a0691824d
 
-
-https://github.com/user-attachments/assets/95db4761-ad53-42a3-b0c1-20633529db4d
 
 
