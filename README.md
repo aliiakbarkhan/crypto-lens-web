@@ -50,4 +50,8 @@ A modern, visually appealing cryptocurrency price checker web application that d
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+https://github.com/user-attachments/assets/95db4761-ad53-42a3-b0c1-20633529db4d
+
+
